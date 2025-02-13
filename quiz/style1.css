@@ -1,0 +1,41 @@
+body { 
+    padding: 20px;
+    background-image: url('https://img.freepik.com/free-vector/white-question-mark-background-minimal-style_1017-25235.jpg?semt=ais_hybrid');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    color:rgb(5, 78, 89);
+    padding-left: 45%;
+}
+.quiz{ 
+    width: auto;
+    margin: auto; 
+    padding-left:40px ;
+    border: 5px solid black;
+    box-shadow: 3px 3px 5px rgb(6, 6, 6), -3px -3px 5px rgb(6, 6, 6);
+    border-radius: 20px;
+}
+.question{
+    font-size: x-large;
+    font-weight: bold;
+    color: brown;
+}
+.options { 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 3%;
+    align-items:start; 
+    color: cadetblue;
+}
+.butt{
+    padding-left: 40%;
+}
+button { 
+    align-items: center;
+    margin: 5px; 
+    padding: 10px;
+    background-color:rgb(126, 193, 171);
+    border-radius: 20px;
+    font-weight: bold;
+}
